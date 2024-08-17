@@ -56,10 +56,11 @@
 
          .navList{
             flex-direction: column;
-            justify-content: center;
+            justify-content:space-around;
             width:100%;
             margin: auto;
             padding: 10px 0;
+            gap:"4px"
 
            .navItem{
             padding:10px 0;

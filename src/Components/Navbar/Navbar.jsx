@@ -23,7 +23,7 @@ const Navbar = () => {
       </div>
           
       <div className={active}>
-       < ul className='navList flex'>
+       < ul className='navList flexgi'>
         <li className="navItem">
           <a href="" className="navLink">Home</a>
         </li>
